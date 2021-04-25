@@ -1,0 +1,3 @@
+[submodule "computer-controlled-systems"]
+	path = computer-controlled-systems
+	url = https://gitlab.com/feeit-freecourseware/computer-controlled-systems.git
